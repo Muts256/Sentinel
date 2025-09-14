@@ -5,7 +5,7 @@
 - <b> Sentinel </b>
   - [Sentinel](https://github.com/Muts256/Sentinel)
 
-The objective of this lab is to simulate a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
+This lab aims to simulate a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
 
 Objective:
   - To enhance practical skills using a Sentinel.
@@ -15,8 +15,13 @@ Objective:
   - Creating an incident alert using  a scheduled rule.
   - Assigning and resolving alerts.
   - Using data connectors to connect to threat intelligence feeds to enrich the investigation process
-  - Document the findings. See PDF above.
+  - Document the findings. See the Sentinel PDF attached above.
 
+Lessons Learned:
+  - Configure Cyber Threat Intelligence to enhance detection accuracy, Proactive defence.
+  - Configure Sentinel, Log Analytic workspaces, Analytic rules
+  - Using the KQL to filter noise
+  - 
   <h4>For the details, open the pdf attached</h4>
 
 <h2> 🤳 Connect with me:</h2>
