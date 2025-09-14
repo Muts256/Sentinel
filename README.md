@@ -5,7 +5,7 @@
 - <b> Sentinel </b>
   - [Sentinel](https://github.com/Muts256/Sentinel)
 
-The investigation using Security Onion provides a comprehensive analysis of the network traffic captured in a pcap file. The integrated tools enable security teams to identify anomalies and correlate events, ultimately confirming the presence of suspicious behaviour that may indicate an incident.
+The objective of this lab is to simulate a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
 
 Objective:
   - To enhance practical skills using a SIEM.
