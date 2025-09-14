@@ -15,7 +15,7 @@ Objective:
   - Creating an incident alert using  a scheduled rule.
   - Assigning and resolving alerts.
   - Using data connectors to connect to threat intelligence feeds to enrich the investigation process
-  - Document the findings. See the Sentinel PDF attached above.
+  - Document the findings. See the Sentinel PDF (SOC Lab Honeyney.pdf) attached above.
 
 Lessons Learned:
   - Configure Cyber Threat Intelligence to enhance detection accuracy, Proactive defence.
