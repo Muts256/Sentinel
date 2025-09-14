@@ -19,9 +19,10 @@ Objective:
 
 Lessons Learned:
   - Configure Cyber Threat Intelligence to enhance detection accuracy, Proactive defence.
-  - Configure Sentinel, Log Analytic workspaces, Analytic rules
-  - Using the KQL to filter noise
-  - 
+  - Configure Sentinel, Log Analytics workspaces, and Analytic rules
+  - Using the KQL to filter noise for quick investigation.
+  - Value of centralised monitoring.
+  - Incident handling workflow
   <h4>For the details, open the pdf attached</h4>
 
 <h2> 🤳 Connect with me:</h2>
