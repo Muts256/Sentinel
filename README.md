@@ -18,7 +18,7 @@ Objective:
   - Document the findings. See the Sentinel PDF (SOC Lab Honeyney.pdf) attached above.
 
 Lessons Learned:
-  - Configure Cyber Threat Intelligence to enhance detection accuracy, Proactive defence.
+  - Configure Cyber Threat Intelligence feeds to enhance detection accuracy, Proactive defence.
   - Configure Sentinel, Log Analytics workspaces, and Analytic rules
   - Using the KQL to filter noise for quick investigation.
   - The value of centralised monitoring.
