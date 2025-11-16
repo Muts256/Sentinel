@@ -27,7 +27,8 @@ Investigation Steps
   - Identify Brute-Force Attempts
   - Used KQL to detect repeated failed authentication attempts
   - Built an Analytic Detection Rule by mapping the indicators to the MITRE ATT&CK framework
-  - Generated a ticket, assigned it to a SOC member for investigation. 
+  - Generated a ticket, assigned it to a SOC member for investigation.
+  - Configured additional indicators from Theart Intelligence feeds (PulseDive) for faster and wider detection surface area.
 
 Recommendations
   - Enforce MFA for all externally accessible systems.
