@@ -17,6 +17,13 @@ Objective:
   - Using data connectors to connect to threat intelligence feeds to enrich the investigation process
   - Document the findings. See the Sentinel PDF (SOC Lab Honeyney.pdf) attached above.
 
+Summary 
+  - Objective: Investigate a simulated data breach using Microsoft Sentinel and KQL.
+  - Tools: Microsoft Sentinel, Log Analytics Workspace, KQL, Azure VM logs.
+  - Focus: Identify anomalies, trace attacker behaviour, reconstruct timeline.
+  - Key Skills Demonstrated: Log analysis, incident investigation, IOC correlation, threat hunting logic.
+  - Outcome: Discovered lateral movement indicators, suspicious login activity, and developed analytic queries for detection.
+
 Lessons Learned:
   - Configure Cyber Threat Intelligence feeds to enhance detection accuracy, Proactive defence.
   - Configure Sentinel, Log Analytics workspaces, and Analytic rules
