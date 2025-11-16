@@ -12,7 +12,7 @@ Summary
   - Tools: Microsoft Sentinel, Log Analytics Workspace, KQL, Azure VM logs.
   - Focus: Identify anomalies, trace attacker behaviour, reconstruct timeline.
   - Key Skills Demonstrated: Log analysis, incident investigation, IOC correlation, threat hunting logic.
-  - Outcome: Discovered lateral movement indicators, suspicious login activity, and developed analytic queries for detection.
+  - Outcome: Discovered Brute force indicators and developed analytic queries for detection.
 
 Tools & Technologies
   - Microsoft Sentinel
