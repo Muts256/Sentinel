@@ -7,30 +7,30 @@
 
 Simulation of a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
 
-Summary 
+Summary:
   - Objective: Investigate a simulated data breach using Microsoft Sentinel and KQL.
   - Tools: Microsoft Sentinel, Log Analytics Workspace, KQL, Azure VM logs.
   - Focus: Identify anomalies, trace attacker behaviour, reconstruct timeline.
   - Key Skills Demonstrated: Log analysis, incident investigation, IOC correlation, threat hunting logic.
   - Outcome: Discovered Brute force indicators and developed analytic queries for detection.
 
-Tools & Technologies
-  - Microsoft Sentinel
-  - KQL (Kusto Query Language)
-  - Azure Log Analytics Workspace
-  - Azure VM Security Logs
-  - Pulsedive Threat Intelligence Integration
-  - SecurityAlert, SecurityEvent, Syslog datasets
+Tools & Technologies:
+  - Microsoft Sentinel.
+  - KQL (Kusto Query Language).
+  - Azure Log Analytics Workspace.
+  - Azure VM Security Logs.
+  - Pulsedive Threat Intelligence Integration.
+  - SecurityAlert, SecurityEvent, Syslog datasets.
 
-Investigation Steps
+Investigation Steps:
   - Ingested logs from a Windows device into Sentinel 
   - Identify Brute-Force Attempts
-  - Used KQL to detect repeated failed authentication attempts
+  - Used KQL to detect repeated failed authentication attempts.
   - Built an Analytic Detection Rule by mapping the indicators to the MITRE ATT&CK framework
   - Generated a ticket, assigned it to a SOC member for investigation.
   - Configured additional indicators from Theart Intelligence feeds (PulseDive) for faster and wider detection surface area.
 
-Recommendations
+Recommendations:
   - Enforce MFA for all externally accessible systems.
   - Implement geo-based access restrictions.
   - Add brute-force detection rules with thresholding.
@@ -39,10 +39,10 @@ Recommendations
 
 Lessons Learned:
   - Configure Cyber Threat Intelligence feeds to enhance detection accuracy, Proactive defence.
-  - Configure Sentinel, Log Analytics workspaces, and Analytic rules
+  - Configure Sentinel, Log Analytics workspaces, and Analytic rules for log ingestion and anomaly detection, respectively.
   - Using the KQL to filter noise for quick investigation.
   - The value of centralised monitoring.
-  - Incident handling workflow
+  - Incident handling workflow.
   <h4>For the details, open the pdf attached</h4>
 
 <h2> 🤳 Connect with me:</h2>
