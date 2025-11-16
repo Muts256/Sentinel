@@ -23,10 +23,10 @@ Tools & Technologies:
   - SecurityAlert, SecurityEvent, Syslog datasets.
 
 Investigation Steps:
-  - Ingested logs from a Windows device into Sentinel 
-  - Identify Brute-Force Attempts
+  - Ingested event logs from a Windows device into Sentinel.
+  - Identify Brute-Force Attempts.
   - Used KQL to detect repeated failed authentication attempts.
-  - Built an Analytic Detection Rule by mapping the indicators to the MITRE ATT&CK framework
+  - Built an Analytic Detection Rule by mapping the indicators to the MITRE ATT&CK framework.
   - Generated a ticket, assigned it to a SOC member for investigation.
   - Configured additional indicators from Theart Intelligence feeds (PulseDive) for faster and wider detection surface area.
 
