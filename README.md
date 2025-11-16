@@ -22,6 +22,14 @@ Tools & Technologies
   - Pulsedive Threat Intelligence Integration
   - SecurityAlert, SecurityEvent, Syslog datasets
 
+Recommendations
+  - Enforce MFA for all externally accessible systems.
+  - Implement geo-based access restrictions.
+  - Add brute-force detection rules with thresholding.
+  - Monitor for suspicious command-line activity.
+  - Enable Sentinel Fusion correlation for multi-stage attack detection.
+
+
 Lessons Learned:
   - Configure Cyber Threat Intelligence feeds to enhance detection accuracy, Proactive defence.
   - Configure Sentinel, Log Analytics workspaces, and Analytic rules
