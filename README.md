@@ -7,22 +7,20 @@
 
 This lab aims to simulate a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
 
-Objective:
-  - To enhance practical skills using a Sentinel.
-  - Installation and configuration of Sentinel, Log Analytics workspace.
-  - Search for anomalies/unusual behaviour in the logs using KQL
-  - Importing log files into Sentinel.
-  - Creating an incident alert using  a scheduled rule.
-  - Assigning and resolving alerts.
-  - Using data connectors to connect to threat intelligence feeds to enrich the investigation process
-  - Document the findings. See the Sentinel PDF (SOC Lab Honeyney.pdf) attached above.
-
 Summary 
   - Objective: Investigate a simulated data breach using Microsoft Sentinel and KQL.
   - Tools: Microsoft Sentinel, Log Analytics Workspace, KQL, Azure VM logs.
   - Focus: Identify anomalies, trace attacker behaviour, reconstruct timeline.
   - Key Skills Demonstrated: Log analysis, incident investigation, IOC correlation, threat hunting logic.
   - Outcome: Discovered lateral movement indicators, suspicious login activity, and developed analytic queries for detection.
+
+Tools & Technologies
+  - Microsoft Sentinel
+  - KQL (Kusto Query Language)
+  - Azure Log Analytics Workspace
+  - Azure VM Security Logs
+  - Pulsedive Threat Intelligence Integration
+  - SecurityAlert, SecurityEvent, Syslog datasets
 
 Lessons Learned:
   - Configure Cyber Threat Intelligence feeds to enhance detection accuracy, Proactive defence.
