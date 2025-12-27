@@ -86,8 +86,9 @@ This installs the Azure Monitor Agent
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/345cc5e9441fc31ef50218313c8e0ffcb9e05b34/Images/Sentinel/Se23.png)
 
+Select the Azure Monitor Agent then click on Manage to install the Data Connectors.
 
-
+![image alt](https://github.com/Muts256/SNC-Public/blob/c230cd4bd37cc83b1030ccc097ef15cd5fd20850/Images/Sentinel/Se24.png)
 
 
 
