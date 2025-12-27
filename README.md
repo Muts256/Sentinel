@@ -365,6 +365,9 @@ Pulsedive integration with Microsoft Sentinel enriches security events with real
   - Using the KQL to filter noise for quick investigation.
   - The value of centralised monitoring.
   - Incident handling workflow.
+
+[PDF](https://github.com/Muts256/Sentinel/blob/main/SOC%20Lab%20Honynet.pdf)
+
   <h4>For the details, open the pdf attached</h4>
 
 <h2> 🤳 Connect with me:</h2>
