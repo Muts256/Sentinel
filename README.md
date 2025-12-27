@@ -329,16 +329,19 @@ On the Threat intelligence page Open connector page
 
 Fill in the required details for configuring the connection
 
-![image alt](![image alt](https://github.com/Muts256/SNC-Public/blob/345cc5e9441fc31ef50218313c8e0ffcb9e05b34/Images/Sentinel/Se65.png)
+![image alt](https://github.com/Muts256/SNC-Public/blob/345cc5e9441fc31ef50218313c8e0ffcb9e05b34/Images/Sentinel/Se65.png)
 
 If details are correct you should receive notification the the connection is successful
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/61bb14162e0d1e777dc86ce76e03547f1d888ec4/Images/Sentinel/Se73.png)
 
 After a while, data from Pulsedive will be ingested into Sentinel.
+
 ![image alt](https://github.com/Muts256/SNC-Public/blob/345cc5e9441fc31ef50218313c8e0ffcb9e05b34/Images/Sentinel/Se68.png)
 
+
 Pulsedive integration with Microsoft Sentinel enriches security events with real-time threat intelligence on malicious IPs, domains, and indicators. This contextual enrichment improves detection accuracy by reducing false positives and helping analysts quickly identify known threat infrastructure. Automated ingestion of Pulsedive data also strengthens proactive threat hunting and accelerates incident response within the SOC.
+
 ---
 
 ### Summary of the Investigation Steps:
