@@ -198,7 +198,7 @@ copy the map.json content to the advanced query and click done editing
         "name": "query - 0"
 }
 ```
-A map showing the general area from which the attacking Ips are originating will be displayed.
+A map showing the general area from which the attacking IP addresses are originating will be displayed.
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/345cc5e9441fc31ef50218313c8e0ffcb9e05b34/Images/Sentinel/Se43.png)
 
